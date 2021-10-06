@@ -1,1 +1,1 @@
-Primeiro projeto - Particando HTML5
+Primeiro projeto - Praticando HTML5
